@@ -2,15 +2,9 @@
 Forwading chat dari Whatsapp ke Telegram
 
 ## Screnshoot
-<a href="https://github.com/brianandhikap">
-  <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/refs/heads/main/screenshot/1.jpg"></img>
-</a>&nbsp; &nbsp;
-<a href="https://github.com/brianandhikap">
-  <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/refs/heads/main/screenshot/2.jpg"></img>
-</a>&nbsp; &nbsp;
-<a href="https://github.com/brianandhikap">
-  <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/refs/heads/main/screenshot/3.jpg"></img>
-</a>
+| | | |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/1.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/2.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/3.jpg" width="200"/> |
 
 ## Tutorial
 1. Clone repository:
