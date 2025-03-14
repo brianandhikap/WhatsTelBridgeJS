@@ -28,7 +28,7 @@ Forwading chat dari Whatsapp ke Telegram
    ```bash
    node index.js
 
-   # atau pakai PM2 (biar gak ribet buat baut servicenya)
+   # atau pakai PM2 (biar gak ribet buat servicenya)
    npm install -g pm2
    pm2 start ecosystem.config.js
 
