@@ -2,7 +2,7 @@
 Forwarding chat dari Whatsapp ke Telegram
 
 ## Screnshoot
-| | | |
+| Whatsapp | Bot Telegram | Group Telegram |
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/1.jpg" width="500"/> | <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/2.jpg" width="500"/> | <img src="https://raw.githubusercontent.com/brianandhikap/WhatsTelBridgeJS/main/screenshot/3.jpg" width="500"/> |
 
