@@ -1,4 +1,4 @@
-## Whatsapp-Bridge-Telegram-JS
+# Whatsapp-Bridge-Telegram-JS
 Forwarding chat dari Whatsapp ke Telegram
 
 ## Screnshoot
