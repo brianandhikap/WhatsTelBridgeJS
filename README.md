@@ -1,5 +1,6 @@
 # Whatsapp-Bridge-Telegram-JS
-Forwarding chat dari Whatsapp ke Telegram
+
+A bridge between WhatsApp and Telegram that allows you to manage WhatsApp conversations through Telegram. Multi account version.
 
 ## Screnshoot
 | Whatsapp | Bot Telegram | Group Telegram |
